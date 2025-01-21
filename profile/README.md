@@ -15,7 +15,7 @@ We have since continued our endeavours in rocketry, expanding to compete in the 
 
 #### Achievements
 - Second place overall in the 2024 AURC. [^1]
-- Winnder of Technical Excellence award. [^1]
+- Winner of Technical Excellence award. [^1]
 
 ## Projects
   
