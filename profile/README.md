@@ -27,8 +27,6 @@ We have since continued our endeavours in rocketry, expanding to compete in the 
 <p float='left' align='center'>
 <img src='https://github.com/user-attachments/assets/1a8a24ce-f50f-44e4-a764-22cd45d28d2a' width=40%/>
 <img src='https://github.com/user-attachments/assets/855c155b-fad8-413d-8dd9-f0309a905a49' width=40%/>
-</p>
-
----
+</p><br>
 
 [^1]: [AURC 2024.](https://aurc.ayaa.com.au/2024-results/)
