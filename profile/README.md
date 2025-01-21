@@ -1,3 +1,5 @@
+---
+
 <!-- <div align='center'> -->
 </div>  
 
@@ -19,7 +21,7 @@ We have since continued our endeavours in rocketry, expanding to compete in the 
 ## Projects
   
 <div align='center'>
-  <ins>Our Rockets</ins>
+  <ins><emph></emph>Our Rockets</ins>
 </div><br>
 
 <p float='left' align='center'>
