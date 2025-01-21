@@ -15,8 +15,8 @@ Formed in 2024, RMIT's competition rocket team was built from the ground up with
 We have since continued our endeavours in rocketry, expanding to compete in the 2025 Spaceport America Cup alongside the AURC once again, entering with our follow up to the Aurora series - **Legacy III**
 
 #### Achievements
-- Second place overall in the 2024 Australian University Rocket Competition
-- Winnder of Technical Excellence award
+- Second place overall in the 2024 Australian University Rocket Competition[^1].
+- Winnder of Technical Excellence award[^1].
 
 ## Projects
   
@@ -30,3 +30,5 @@ We have since continued our endeavours in rocketry, expanding to compete in the 
 </p>
 
 ---
+
+[^1] [AURC 2024](https://aurc.ayaa.com.au/2024-results/)
