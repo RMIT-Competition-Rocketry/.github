@@ -9,6 +9,7 @@
 </div>
 
 ## About Us
+
 Formed in 2024 to compete in the Australian Universities Rocket Competition (AURC), RMIT's competition rocket team was built from the ground up by a group of almost 30 engineering students with next to no experience in rocketry.
 
 We have since continued our endeavours in rocketry, expanding to compete in the 2025 International Rocket Engineering Competition (IREC) alongside the AURC once again, entering with our follow up to the Aurora series - **Legacy**<br>
@@ -17,9 +18,21 @@ We have since continued our endeavours in rocketry, expanding to compete in the 
 - 2<sup>nd</sup> place overall in the 2024 AURC. [^1]
 - Winner of Technical Excellence award. [^1]
 
+<div align='center'>
+<img src='https://github.com/user-attachments/assets/9fff76a1-3861-49fc-8fde-b446359daa8a'  width=60%/>
+
+2024 AURC team
+</div>
+
 ###### IREC 2025 Results
 - 59<sup>th</sup> place overall in the 2025 IREC. [^2]
 - Winner of Dr. Gil Moore Award for Innovation. [^3]
+
+<div align='center'>
+<img src='https://github.com/user-attachments/assets/866903ae-2554-46a8-935e-8117bd59a1ff'  width=60%/>
+
+2025 IREC team
+</div>
 
 ## Projects
 
