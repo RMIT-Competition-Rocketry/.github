@@ -55,6 +55,14 @@ We have since continued our endeavours in rocketry, expanding to compete in the 
 <a href='https://github.com/RMIT-Competition-Rocketry/Australis-Avionics-firmware'><img src='https://github.com/user-attachments/assets/3eaa42db-07fb-4378-8870-754723e11d29' width=40%/></a>
 </p><br>
 
+<div align='center'>
+  <ins><emph></emph>Ground Control</ins>
+</div><br>
+
+<p float='left' align='center'>
+<a href='https://github.com/RMIT-Competition-Rocketry/GCS'><img src='https://github.com/user-attachments/assets/32990919-1fe1-40f0-bc2d-463ead43a7ac' width=40%/></a>
+</p><br>
+
 ## Awards Showcase
 
 2025 Dr. Gil Moore Award for Innovation:
